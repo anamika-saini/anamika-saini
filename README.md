@@ -1,4 +1,3 @@
-# 💫 About Me:
 # Hi, I'm Anamika 👋<br><br>🎓 BCA Student | ☁️ Aspiring AWS Cloud Engineer | 💻 Web Development Enthusiast<br>
 
 
