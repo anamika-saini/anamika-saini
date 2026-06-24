@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Hi, I'm Anamika 👋<br><br>🎓 BCA Student | ☁️ Aspiring AWS Cloud Engineer | 💻 Web Development Enthusiast<br><br>I am a Bachelor of Computer Applications (BCA) student with a strong interest in Cloud Computing, AWS, Linux, and Web Technologies. I have hands-on experience with HTML, CSS, JavaScript, and basic database management concepts through academic projects and internships.<br><br>Currently, I am building my skills in Linux, AWS Cloud, Networking, and DevOps fundamentals while continuously improving my problem-solving and technical abilities. My goal is to start my career in Cloud Engineering and grow into a skilled AWS Solutions Architect or DevOps Engineer.<br>
+# Hi, I'm Anamika 👋<br><br>🎓 BCA Student | ☁️ Aspiring AWS Cloud Engineer | 💻 Web Development Enthusiast<br>
 
 
 ## 🌐 Socials:
